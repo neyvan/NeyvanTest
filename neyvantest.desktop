@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+GenericName=NeyvanTest
+Name=NeyvanTest
+Type=Application
+Icon=neyvantest
+Keywords=neyvan;wallpaper;of day
+Exec=neyvan-test %F
+Categories=Utility;Qt;
+Terminal=false
+Name[en_US]=NeyvanTest
